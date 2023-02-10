@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @originalmk
 - 👀 I’m interested in computer science but not only.
-- 🌱 I’m currently learning Ruby, Ruby on Rails and others
+- 🌱 I’m currently interested in Bitcoin and blockchain.
 - 💞️ I’m looking to collaborate on some fun project.
 - 📫 How to reach me - on discord - krzmaciek#5196
 
