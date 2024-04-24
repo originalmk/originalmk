@@ -4,4 +4,3 @@
 - 💞️ I’m looking to collaborate on some fun project
 - 📫 How to reach me:
   - Discord: krzyzanov (preferred)
-  - By email: krzmaciek@gmail.com
