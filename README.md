@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @originalmk
 - 👀 I am computer sciene student
-- 🌱 I’m currently interested in computer science and related
 - 💞️ I’m looking to collaborate on some fun project
 - 📫 How to reach me:
   - Discord: krzyzanov (preferred)
