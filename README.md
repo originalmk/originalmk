@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @originalmk
 - 👀 I am computer sciene student
-- 🌱 I’m currently interested in everything!
+- 🌱 I’m currently interested in computer science and related
 - 💞️ I’m looking to collaborate on some fun project
-- 📫 How to reach me - on discord - krzmaciek#5196 (preferred) or by email - krzmaciek@gmail.com
+- 📫 How to reach me:
+  - Discord: krzyzanov (preferred)
+  - By email: krzmaciek@gmail.com
