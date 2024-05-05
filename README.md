@@ -2,4 +2,4 @@
 - 👀 I am computer sciene student
 - 💞️ I’m looking to collaborate on some fun project
 - 📫 How to reach me:
-  - Discord: krzyzanov (preferred)
+  - Discord: krzyzanov
