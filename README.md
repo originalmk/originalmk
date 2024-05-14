@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @originalmk
-- 👀 I am computer sciene student
+- 👀 I am a computer science student
 - 💞️ I’m looking to collaborate on some fun project
 - 📫 How to reach me:
   - Discord: krzyzanov
