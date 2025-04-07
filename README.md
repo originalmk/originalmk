@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @originalmk
-- 👀 I am a computer science student
-- 💞️ I’m looking to collaborate on some fun project
+- 👋 Hi, I’m @originalmk (aka Original MK Experience)
+- 👀 I am an ENGINEER and... computer science student, again
+- 💞️ I’m looking to collaborate on some fun project or have some fun discussions
 - 📫 How to reach me:
   - Discord: krzyzanov
